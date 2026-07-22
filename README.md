@@ -39,11 +39,9 @@
 
 | پلتفرم | لینک دانلود |
 |---------|-------------|
-| **اندروید (APK)** | [دانلود مستقیم](https://dl.dongchiapp.ir/) |
-| **بازار** | [CafeBazaar](https://cafebazaar.ir/app/com.takbaran.dangchi) |
-| **مایکت** | [Myket](https://myket.ir/app/com.takbaran.dangchi) |
-| **وب (PWA)** | [dongchiapp.ir](https://dongchiapp.ir) |
+| **اندروید** | [دانلود مستقیم APK](https://dl.dongchiapp.ir/) • [بازار](https://cafebazaar.ir/app/com.takbaran.dangchi) • [مایکت](https://myket.ir/app/com.takbaran.dangchi) |
 | **ویندوز** | [Microsoft Store](https://apps.microsoft.com/detail/9NWW1NFTVK2W?hl=en-us&gl=US&ocid=pdpshare) |
+| **وب (PWA)** | [dongchiapp.ir](https://dongchiapp.ir) |
 
 </div>
 
