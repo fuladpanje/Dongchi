@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Dongchi Logo](assets/icon.png)
+![Dongchi Logo](pic.jpg)
 
 **Dongchi** — A cross-platform Flutter app for splitting expenses and settling debts in groups
 
