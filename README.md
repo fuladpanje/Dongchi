@@ -43,7 +43,7 @@
 | **بازار** | [CafeBazaar](https://cafebazaar.ir/app/com.takbaran.dangchi) |
 | **مایکت** | [Myket](https://myket.ir/app/com.takbaran.dangchi) |
 | **وب (PWA)** | [dongchiapp.ir](https://dongchiapp.ir) |
-| **ویندوز** | [GitHub Releases](https://github.com/fuladpanje/Dongchi/releases) |
+| **ویندوز** | [Microsoft Store](https://apps.microsoft.com/detail/9NWW1NFTVK2W?hl=en-us&gl=US&ocid=pdpshare) |
 
 </div>
 
